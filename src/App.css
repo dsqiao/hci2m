@@ -20,19 +20,26 @@
 
 .menu {
   margin: 0 20px;
-  width: 200px;
+  min-width: 200px;
 }
 
 .main {
   flex-grow: 1;
   margin: 0 20px;
+  padding: 20px;
 }
 
 .box {
   margin: 10px 30px;
   height: 180px;
-  width: 180px;
+  width: min(25%, 180px);
   border: 1px solid black;
   border-radius: 10px;
   text-align: center;
 }
+
+/* 右侧面板标题样式 */
+.sub-title {
+  color: #747474;
+}
+
