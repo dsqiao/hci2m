@@ -1,0 +1,60 @@
+.enterprise-management {
+  height: 100%;
+  background: #fff !important;
+}
+
+.enterprise-sider {
+  background: #f5f5f5 !important;
+  margin: 20px 0 20px 20px;
+  border-radius: 4px;
+}
+
+.sider-header {
+  padding: 16px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.enterprise-content {
+  padding: 20px;
+}
+
+.content-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.add-btn {
+  margin: 16px;
+  width: calc(100% - 32px);
+}
+
+.project-table {
+  margin-top: 24px;
+}
+
+.ant-form-item-label {
+  font-weight: 500;
+}
+
+.ant-card {
+  border-radius: 4px;
+}
+
+.ant-menu-inline {
+  border-right: none;
+}
+
+.ant-layout-sider-children {
+  display: flex;
+  flex-direction: column;
+}
+
+.ant-menu {
+  flex: 1;
+  background: #f5f5f5;
+}

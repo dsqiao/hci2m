@@ -1,0 +1,17 @@
+"filename", "language", "JavaScript", "XML", "CSS", "comment", "blank", "total"
+"/Users/qiaodisheng/hci/hci2m/src/App.css", "CSS", 0, 0, 38, 1, 7, 46
+"/Users/qiaodisheng/hci/hci2m/src/App.js", "JavaScript", 71, 0, 0, 0, 7, 78
+"/Users/qiaodisheng/hci/hci2m/src/App.test.js", "JavaScript", 7, 0, 0, 0, 2, 9
+"/Users/qiaodisheng/hci/hci2m/src/components/ApplicationManagement.js", "JavaScript", 13, 0, 0, 0, 2, 15
+"/Users/qiaodisheng/hci/hci2m/src/components/EnterpriseManagement.js", "JavaScript", 13, 0, 0, 0, 2, 15
+"/Users/qiaodisheng/hci/hci2m/src/components/Homepage.js", "JavaScript", 23, 0, 0, 1, 1, 25
+"/Users/qiaodisheng/hci/hci2m/src/components/Log.js", "JavaScript", 43, 0, 0, 0, 2, 45
+"/Users/qiaodisheng/hci/hci2m/src/components/Message.js", "JavaScript", 13, 0, 0, 0, 2, 15
+"/Users/qiaodisheng/hci/hci2m/src/components/ProjectManagement.js", "JavaScript", 13, 0, 0, 0, 2, 15
+"/Users/qiaodisheng/hci/hci2m/src/components/TableManagement.js", "JavaScript", 13, 0, 0, 0, 2, 15
+"/Users/qiaodisheng/hci/hci2m/src/index.css", "CSS", 0, 0, 12, 0, 2, 14
+"/Users/qiaodisheng/hci/hci2m/src/index.js", "JavaScript", 12, 0, 0, 3, 3, 18
+"/Users/qiaodisheng/hci/hci2m/src/logo.svg", "XML", 0, 1, 0, 0, 0, 1
+"/Users/qiaodisheng/hci/hci2m/src/reportWebVitals.js", "JavaScript", 12, 0, 0, 0, 2, 14
+"/Users/qiaodisheng/hci/hci2m/src/setupTests.js", "JavaScript", 1, 0, 0, 4, 1, 6
+"Total", "-", 234, 1, 50, 9, 37, 331
